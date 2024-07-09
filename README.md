@@ -1,16 +1,13 @@
-## Hi there 👋
+# About Me
 
-<!--
-**diarmuidbrady/diarmuidbrady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Diarmuid, a tenaciously curious data scientist. I love to answer interesting questions.
 
-Here are some ideas to get you started:
+You can learn more about what intrigues me over at [**The Tenacious Life**](https://www.thetenaciouslife.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-james-tomescu/)!
+<br><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=diarmuidbrady&count_private=true&show_icons=true" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com/?user=diarmuidbrady)" />
+</a>
